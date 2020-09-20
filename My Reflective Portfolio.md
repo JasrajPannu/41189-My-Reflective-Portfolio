@@ -142,9 +142,11 @@
 - How external events have signifcant impacts of the global economy.
 - Convex functions have an increasing slope: the function’s value increases by a larger amount as we increase a variable’s value.
 - Concave functions are the opposite of convex functions. Concave functions have slopes that decrease. Concave functions with positive slopes exhibit diminishing returns: the added value of each extra thing diminishes as we have more of that thing. 
+- I have learned about the contagion SIR model, which describes the spread of the COVID-19 by a diagram providing necessary information.
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed? 
 - Having completed extension mathematics in my HSC, i have worked on expotential graphs before. With this experience i have grater existent understanding of this model.
+- My weakness: I have very little experience with Jupyter and continue to not be able to understand this program.
 
 ### What were the challenges that I or my team faced?
 - Our group struggled with finalising solutions for our problems. We wanted to makesure that the solutions we chose is based on reality and facts. 
