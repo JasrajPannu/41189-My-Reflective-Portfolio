@@ -124,3 +124,29 @@
  
 ### What would I do better next time?
 - I think i worked relatively well this week. I was on top of all the tasks that i wanted to complete and was happy that as a group we were able to finalise our models for our assignment.
+
+## Week 6
+
+### What have I learnt this week?
+- I learnt about path dependence, which is that all paths that are taken are linked and dependent on each path. Basically, path dependence is that the outcome probabilities depend upon the sequence of past outcomes. Note that the outcome is not necessarily path dependent but the probability of the outcome is path dependent.
+- To describe path dependence a 'Urn model' can be used to distinguish between models that are path dependent and those that are 'phat' dependent. 
+- There are many types of Urn models - Bernoulli, Polya process and balancing.
+- Urn models focus strongly on probability and outcomes
+- In a Markov process the long term equilibrium never depends on the previous events—history doesn’t play a role because the system always wants to converge to the same equilibrium.
+- Random walk models are derived from flipping a coin, where each outcome (heads or tails) has a probability of 1/2. This concept can be used to create a binary random walk.
+
+### What do I ‘now know’ that I did not before?
+- Everything that i have noted above, is somthing i did not know before.
+
+### What insights have I gained?
+
+
+### What are (my/the) perceived strengths and weaknesses that I have observed? 
+
+
+### What were the challenges that I or my team faced?
+
+
+### What would I do better next time?
+
+
