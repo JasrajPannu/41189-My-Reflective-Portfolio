@@ -169,6 +169,40 @@ Our team is currently working on the Week 8 - Pre submission and we are trying t
 ### What insights have I gained?
 - This week I Juan gave the students an insight into models which focused on strategy and cooperation: Colonel Blotto Game and the Prisoner’s Dilemma, which are both part of game theory.
 - The Colonel Blotto is a game with a set outcome of a winner or loser. Two players concurrently allocate resources across the battlefields. The player with the greatest resources in each battlefield wins that battle and the player with the most overall wins is the victor.
-- However, the demand for the Colonel Blotto game 
+- However, the demand for the Colonel Blotto game reduced with the end of war era.
+- Our noted made a direct reference to the US elections which was very interesting as it allowed me to look at the US elections in a different manner. US Elections: To become president you do not need to win the most votes but the most states. So where do I allocate my troops, that is money, time, helpers, etc., to win the most states? For example, California is staunchly Democratic and so neither party spends much time or money there. What they do is spend time and money in the swing states of the Midwest and Florida.
 
 ### What were the challenges that I or my team faced?
+- My team continues to struggle with using python. A lot of have never had or have very minimal experience with the platform which is causing a lot of headache. My team has decided that we will meet every week on a set time on Mondays to insure that we are all on the right track and to discuss any issues we may have. For instance, we watched a few youtube videos to discuss the use of python.
+
+## Week 9 
+
+### What insights have I gained?
+- Reading another groups report was extremely beneficial we were able to analyse the things the group did well and what they didn't do well. From the analysis my group and i were able to incorporate these changes into our assignment.
+- My group received feedback from another group-and they brought third-party perspective and told us what we can work on for our next submission. We found out that we needed to make the pictures in our assessment more prominent and clear. 
+
+### What were the challenges that I or my team faced and what would i do better?
+- By the next submission I hope I have improved my Jupyter and Python skills so that the report is of high quality and I can make the most of this subject. 
+- The group is continuing to struggle with Python and understanding whether our models are the most appropriate. We as a group have struggled putting in efficient time into this assignment with a lot of assignments and assessments due and how time consuming this assignment is.
+
+## Week 10
+
+### What were the challenges that I or my team faced and what would i do better?
+- I and my group continue to struggle with python however the feedback that we received from Juan in relation to our week 8 submission has been extremely beneficial. I did the Rational Actor model in the group Week 8 submission and the feedback received from Juan really clarified my issues with python. Using Juans feedback, i have starting to evaluate what decisions do citizens face of whether to or not to vote. Things to place emphasis on is the costs, benefits and beliefs. 
+- Juan also mentioned that there is a famous book on predictions related to the US presidential elections: The Signal and the Noise (by Nate Silver). I have started to read this book and am very excited to see whether which models i can use.
+
+## Week 11
+
+### What were the challenges that I or my team faced and what would i do better?
+
+- This week our group discussed that it is quite crucial that we continue to watch the debates in the America, analyse the benefits that each party is offering and the looking at the data of the early votes. My group is quite luckly with the timing for the US elections as we are being provided with a live update on the outcome. 
+- I have taken the initiative to work on the models in python and update the existing models as well based on the feedback we received from Juan. I find it difficult that there has not been a lot of support from my team on python but in order to do well in this assignment i have used all the feedback from Juan and believe i am in the right direction to get these models represented correctly in python.
+- Next time i will not be afraid to voice my concerns with my Tutor earlier.
+
+## Week 12
+
+### What were the challenges that I or my team faced and what would i do better?
+- This week i ahve strongly been monitoring the early vote data that is available. My team is quite lucky that the assignment due date was extended because that meant to we had alot of live information. Currently Joe Biden is performing strongly when compared to Donald Trump, which in my opinion is wonderful! 
+- This week i ahave strongly voiced my opinion with my team members and hope that we all can work together. We have locked in a one to one time with Juan to have a discussion on our assignment. Unfortunately, with me being sick i completely forgot about the meeting. So i will message Juan to schedule a new meeting.
+- Next time i will experiment more with different models and get outside of my comfort zone and only use a topic that i think i know information about.
+
