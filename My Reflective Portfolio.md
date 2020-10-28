@@ -154,3 +154,21 @@
 ### What would I do better next time?
 - Conduct research on examples and watch videos to greater enhance my understanding.
 
+## Week 7
+
+### What insights have I gained?
+- The insights I gained from this week’s content are that Micro-motives does not equal Macro-behaviour. Social Contagion driven by high variance rather than mean behaviour. Instances that would be interesting to apply this theory to and segregation models to to would be political elections, especially in two-party systems, and how ‘micro-motives’ can change the overall outcomes. 
+- The Standing Ovation Model builds off of the Granovetter model. When a performance ends, you have a short window to decide if you are going to stand up. And when other people around you do stand up, you need to decide very quickly if you stand up too. Standing ovations are a nice domain to think about when considering how people follow certain rules. Standing ovation is a sort of peer/group effect and can also be a piece of information. If a knowledgable person stands up, then you might deduce that the show was good.
+
+### What were the challenges that I or my team faced?
+Currently my group is trying to understand whether the models we have chosen for our assignment correctly assess the outcome we would like to occur.
+Our team is currently working on the Week 8 - Pre submission and we are trying to insure that we have conducted enough research into our chosen topis of US elections
+
+## Week 8 
+
+### What insights have I gained?
+- This week I Juan gave the students an insight into models which focused on strategy and cooperation: Colonel Blotto Game and the Prisoner’s Dilemma, which are both part of game theory.
+- The Colonel Blotto is a game with a set outcome of a winner or loser. Two players concurrently allocate resources across the battlefields. The player with the greatest resources in each battlefield wins that battle and the player with the most overall wins is the victor.
+- However, the demand for the Colonel Blotto game 
+
+### What were the challenges that I or my team faced?
